@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studding in SPCAM,BCA<br>👯 I’m looking to collaborate for Flutter Development <br>🌱 I’m currently learning Flutter
+🔭 I’m currently Studding in BCA<br>👯 I’m looking to collaborate for Flutter Development <br>🌱 I’m currently learning Flutter
 
 
 ## 🌐 Socials:
