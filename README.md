@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently Studding in BCA<br>👯 I’m looking to collaborate for Flutter Development <br>🌱 I’m currently learning Flutter
 
-https://tenor.com/view/game-of-thrones-ready-lets-do-this-jon-snow-gif-18550034
+![CasiopeaGIF](https://github.com/user-attachments/assets/910725a9-26bb-4326-9584-22dc0c85a699)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_bhagat_151105) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bhagat-99b7b82b3) 
