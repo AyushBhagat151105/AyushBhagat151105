@@ -20,6 +20,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushBhagat151105&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![BreakingBadHandshakeGIF](https://github.com/user-attachments/assets/23ab3176-bf4c-4d15-a4e4-406326ff18dc)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AyushBhagat151105&icon=2&color=1)](https://visitcount.itsvg.in)
