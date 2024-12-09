@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently Studding in BCA<br>👯 I’m looking to collaborate for Flutter Development <br>🌱 I’m currently learning Flutter
 
-<div class="tenor-gif-embed" data-postid="18550034" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/game-of-thrones-ready-lets-do-this-jon-snow-gif-18550034">Game Of Thrones Ready GIF</a>from <a href="https://tenor.com/search/game+of+thrones-gifs">Game Of Thrones GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![JonSnowGIF](https://github.com/user-attachments/assets/adda0f40-7f0a-4e9e-8b44-9874012934f4)
 
 
 ## 🌐 Socials:
