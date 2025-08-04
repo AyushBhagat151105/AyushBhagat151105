@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studding in BCA<br>👯 I’m looking to collaborate for Next js Development <br>🌱 I’m currently learning Next js
+🔭 I’m currently Studding in BCA
 
 ![JonSnowGIF](https://github.com/user-attachments/assets/adda0f40-7f0a-4e9e-8b44-9874012934f4)
 
